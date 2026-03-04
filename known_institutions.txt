@@ -1,0 +1,68 @@
+# Known Institutions List — CertifyX
+# One institution keyword per line (case-insensitive partial match)
+# Add any institution name or keyword you want to recognize as valid
+
+# Central Boards
+central board of secondary education
+cbse
+council for the indian school certificate examinations
+cisce
+
+# Major Universities — India
+anna university
+visvesvaraya technological university
+vtu
+jawaharlal nehru technological university
+jntu
+university of mumbai
+mumbai university
+university of pune
+savitribai phule pune university
+university of delhi
+delhi university
+university of madras
+madras university
+osmania university
+kakatiya university
+andhra university
+bangalore university
+mysore university
+kerala university
+calicut university
+mahatma gandhi university
+cochin university of science and technology
+cusat
+pondicherry university
+bharathiar university
+bharathidasan university
+alagappa university
+periyar university
+thiruvalluvar university
+manomaniam sundaranar university
+mother teresa womens university
+tamilnadu technological university
+sathyabama university
+amrita vishwa vidyapeetham
+vellore institute of technology
+vit
+srm university
+srm institute of science and technology
+manipal university
+manipal academy of higher education
+mahe
+bits pilani
+birla institute of technology and science
+iit
+indian institute of technology
+nit
+national institute of technology
+iim
+indian institute of management
+bits
+deemed university
+
+# Autonomous Boards
+board of intermediate education
+board of secondary education
+state board
+matriculation board
